@@ -1,0 +1,7 @@
+input.ng-invalid.ng-dirty {
+  border-color:red;
+
+}
+.card-img-top {
+  max-height: 15rem;
+}
